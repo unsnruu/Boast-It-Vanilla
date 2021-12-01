@@ -1,0 +1,14 @@
+#app {
+  width: 100vw;
+}
+.menu-bar {
+  position: sticky;
+}
+.board {
+}
+.post {
+}
+.post > img {
+}
+.post > img.loading {
+}
